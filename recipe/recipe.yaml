@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.0"
+  version: "0.4.1"
   name: iembot
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/iembot-${{ version }}.tar.gz
-  sha256: a090e60c2b78d1fee5ee2e3cb8d60c88663727d128f3f8c31370b98cde900530
+  sha256: 2544422ccdb68ab877476da038b19631f52249b2f9db4c456fb4614419cb2102
 
 build:
   number: 0
