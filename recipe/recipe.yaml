@@ -31,7 +31,6 @@ requirements:
     - atproto
     - click
     - feedgen
-    - httpx
     - mastodon.py
     - psycopg
     - pyiem >=1.26
